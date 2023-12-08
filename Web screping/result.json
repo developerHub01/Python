@@ -1,0 +1,74 @@
+[
+  {
+    "description": "7 day battery",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 24.99,
+    "rating": 3.0,
+    "reviews": 11,
+    "title": "Nokia 123"
+  },
+  {
+    "description": "3.2\" screen",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 57.99,
+    "rating": 3.0,
+    "reviews": 11,
+    "title": "LG Optimus"
+  },
+  {
+    "description": "5 mpx. Android 5.0",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 93.99,
+    "rating": 3.0,
+    "reviews": 3,
+    "title": "Samsung Galaxy"
+  },
+  {
+    "description": "Andoid, Jolla dualboot",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 109.99,
+    "rating": 4.0,
+    "reviews": 4,
+    "title": "Nokia X"
+  },
+  {
+    "description": "GPS, waterproof",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 118.99,
+    "rating": 1.0,
+    "reviews": 6,
+    "title": "Sony Xperia"
+  },
+  {
+    "description": "Sapphire glass",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 499.99,
+    "rating": 1.0,
+    "reviews": 2,
+    "title": "Ubuntu Edge"
+  },
+  {
+    "description": "White",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 899.99,
+    "rating": 1.0,
+    "reviews": 10,
+    "title": "Iphone"
+  },
+  {
+    "description": "Silver",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 899.99,
+    "rating": 2.0,
+    "reviews": 8,
+    "title": "Iphone"
+  },
+  {
+    "description": "Black",
+    "img": "https://webscraper.io/images/test-sites/e-commerce/items/cart2.png",
+    "price": 899.99,
+    "rating": 1.0,
+    "reviews": 1,
+    "title": "Iphone"
+  }
+]
