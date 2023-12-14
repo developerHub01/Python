@@ -10,7 +10,8 @@ soup = BeautifulSoup(r.text, 'lxml')
 
 allPhones = []
 
-allPhonesTags = soup.findAll('div', {'class': 'card product-wrapper thumbnail'});
+allPhonesTags = soup.find_all('div', {'class': 'card product-wrapper thumbnail'})
+
 
 for phonetag in allPhonesTags:
   phonData = {}
